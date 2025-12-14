@@ -15,7 +15,17 @@
 *   **Precision Agriculture**: Targeted spraying and resource application.
 *   **Data Analytics**: Comprehensive dashboard for farm management.
 
-## 🛠️ Installation
+## � Legacy Documentation: Auto Navi Expo
+
+*(Restored from previous version)*
+
+### auto_navi_expo
+    
+*   ...
+*   way_points.          
+*   9. You will need to [Check configuration]
+
+## �🛠️ Installation
 
 1.  Clone the repository:
     ```bash
